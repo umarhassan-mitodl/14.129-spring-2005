@@ -15,7 +15,7 @@ This section features information about the portions covered in the primary text
 
 The primary book for this course is:
 
-![Buy at MIT Press](/images/mp_logo.gif) Bolton, Patrick, and Mathias Dewatripont. {{% resource_link "ec72262d-4228-4795-8746-9541d3b20166" "_Contract Theory_" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 9780262025768.
+![Buy at MIT Press](/images/mp_logo.gif) Bolton, Patrick, and Mathias Dewatripont. [_Contract Theory_](https://mitpress.mit.edu/9780262025768). Cambridge, MA: MIT Press, 2005. ISBN: 9780262025768.
 
 We will cover the following sections in detail:
 
@@ -43,15 +43,15 @@ We will overlook these areas:
 
 Mas-Colell, Andreu, Michael D. Whinston, and Jerry R. Green. _Microeconomic Theory_. New York, NY: Oxford University Press, 1995. ISBN: 9780195102680.
 
-![Buy at MIT Press](/images/mp_logo.gif) Fudenberg, Drew, and Jean Tirole. {{% resource_link "9fcd038e-1103-4325-b72d-9118e8314132" "_Game Theory_" %}}. Cambridge, MA: MIT Press, 1991. ISBN: 9780262061414.
+![Buy at MIT Press](/images/mp_logo.gif) Fudenberg, Drew, and Jean Tirole. [_Game Theory_](https://mitpress.mit.edu/9780262061414). Cambridge, MA: MIT Press, 1991. ISBN: 9780262061414.
 
 Krishna, Vijay. _Auction Theory_. San Diego, CA: Academic Press, 2002. ISBN: 9780124262973.
 
 Hart, Oliver D. _Firms, Contracts, and Financial Structure_. Oxford, UK: Clarendon Press; New York, NY: Oxford University Press, 1995. ISBN: 9780198288817.
 
-![Buy at MIT Press](/images/mp_logo.gif) Laffont, Jean-Jacques, and Jean Tirole. {{% resource_link "8c3a53b7-4165-480a-b424-ceb430687626" "_A Theory of Incentives in Procurement and Regulation_" %}}. Cambridge, MA: MIT Press, 1993. ISBN: 9780262121743.
+![Buy at MIT Press](/images/mp_logo.gif) Laffont, Jean-Jacques, and Jean Tirole. [_A Theory of Incentives in Procurement and Regulation_](https://mitpress.mit.edu/9780262121743). Cambridge, MA: MIT Press, 1993. ISBN: 9780262121743.
 
-![Buy at MIT Press](/images/mp_logo.gif) Salanié, Bernard. {{% resource_link "4d60ab2c-ec21-45e3-ac9d-2710d4395884" "_The Economics of Contracts: A Primer_" %}}. 2nd ed. Cambridge, MA: MIT Press, 2005. ISBN: 9780262195256.
+![Buy at MIT Press](/images/mp_logo.gif) Salanié, Bernard. [_The Economics of Contracts: A Primer_](https://mitpress.mit.edu/9780262195256). 2nd ed. Cambridge, MA: MIT Press, 2005. ISBN: 9780262195256.
 
 ## {{< anchor "Papers" >}}{{< /anchor >}}General List of Papers
 

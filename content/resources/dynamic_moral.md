@@ -4,6 +4,8 @@ description: ''
 file: /courses/14-129-advanced-contract-theory-spring-2005/81b6214fc1fa20ef84ba6c84db039725_dynamic_moral.pdf
 file_size: 78161
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

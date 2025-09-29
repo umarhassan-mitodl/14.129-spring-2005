@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides the homework assignments for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ uid: 4cf9a08a-0275-f957-365e-6967e64dc491
 
 Some of the homework assignments refer to problems that can be found in the course textbook:
 
-{{% resource_link "ec72262d-4228-4795-8746-9541d3b20166" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bolton, Patrick, and Mathias Dewatripont. {{% resource_link "ec72262d-4228-4795-8746-9541d3b20166" "_Contract Theory_" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 9780262025768.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262025768) Bolton, Patrick, and Mathias Dewatripont. [_Contract Theory_](https://mitpress.mit.edu/9780262025768). Cambridge, MA: MIT Press, 2005. ISBN: 9780262025768.
 
 Homeworks
 ---------

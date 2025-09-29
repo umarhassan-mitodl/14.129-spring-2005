@@ -32,6 +32,7 @@
     "website": "14-129-advanced-contract-theory-spring-2005"
   },
   "course_title": "Advanced Contract Theory",
+  "hide_download": true,
   "course_description": "This course focuses on recent developments in contract theory. Topics include: advanced models of moral hazard, adverse selection, mechanism design and incomplete contracts with applications to theory of the firm, organizational design, and financial structure.\n",
   "department_numbers": [
     "14"
@@ -42,6 +43,7 @@
     "content": "39f86bb1-fb4c-9f56-67ff-b1f75c81fcab",
     "website": "14-129-advanced-contract-theory-spring-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",

@@ -7,6 +7,8 @@ description: In a "Dutch Auction," the price is reduced until a buyer is found. 
 file: /courses/14-129-advanced-contract-theory-spring-2005/be1a36564203b8f2df6820a7a81a24d7_chp_tulip.jpg
 file_size: 28143
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

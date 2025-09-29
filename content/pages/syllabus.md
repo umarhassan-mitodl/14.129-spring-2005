@@ -31,7 +31,7 @@ Microeconomic Theory I (14.121), Contract Economics (14.281), or permission of i
 
 The primary book for this course is:
 
-![Buy at MIT Press](/images/mp_logo.gif) Bolton, Patrick, and Mathias Dewatripont. {{% resource_link "ec72262d-4228-4795-8746-9541d3b20166" "_Contract Theory_" %}}_._ Cambridge, MA: MIT Press, 2005. ISBN: 9780262025768.
+![Buy at MIT Press](/images/mp_logo.gif) Bolton, Patrick, and Mathias Dewatripont. [_Contract Theory_](https://mitpress.mit.edu/9780262025768)_._ Cambridge, MA: MIT Press, 2005. ISBN: 9780262025768.
 
 Please see {{% resource_link 85deb539-cd28-5378-0d84-31da68a71a43 "readings" %}} for more information.
 
