@@ -4,8 +4,6 @@ description: ''
 file: /courses/14-129-advanced-contract-theory-spring-2005/0dfa991f3d103aabfe9f5db3237f3316_bayesian_nash.pdf
 file_size: 244348
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
