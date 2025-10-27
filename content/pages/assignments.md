@@ -10,7 +10,7 @@ uid: 4cf9a08a-0275-f957-365e-6967e64dc491
 
 Some of the homework assignments refer to problems that can be found in the course textbook:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262025768) Bolton, Patrick, and Mathias Dewatripont. [_Contract Theory_](https://mitpress.mit.edu/9780262025768). Cambridge, MA: MIT Press, 2005. ISBN: 9780262025768.
+{{% resource_link "f701a72b-2d17-4ad1-9153-b8163c823654" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bolton, Patrick, and Mathias Dewatripont. {{% resource_link "f701a72b-2d17-4ad1-9153-b8163c823654" "_Contract Theory_" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 9780262025768.
 
 Homeworks
 ---------
